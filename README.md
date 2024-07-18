@@ -5,10 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=YigitCataloglu&label=Profile%20views&color=0e75b6&style=flat" alt="YigitCataloglu" /> 
 </p>
 
-<p align="center">
-  <img src=" ![Xei6](https://github.com/user-attachments/assets/886be125-17dc-4811-af4b-246954c31f4f)
- " alt="Gif" />
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9ed662e1-571e-49d0-b633-693a1d5f7d7b" alt="Xei6" />
+</div>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
