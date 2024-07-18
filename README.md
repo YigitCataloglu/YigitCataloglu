@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit Çataloğlu</h1>
+![Xei6](https://github.com/user-attachments/assets/134d6568-f490-44b4-9c3a-4f4ded264b5a)<h1 align="center">Hi 👋, I'm Yiğit Çataloğlu</h1>
 <h3 align="center">I'm a CSE Student from Turkey</h3>
 
 <p align="center"> 
@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee06f1e7-da69-4785-8f5c-d9aaa3958314" alt="Gif" />
+  <img src="![Xei6](https://github.com/user-attachments/assets/356ef1c8-47f0-4629-be3f-9afa3fab34c4)
+" alt="Gif" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
