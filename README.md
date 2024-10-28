@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=YigitCataloglu&label=Profile%20views&color=0e75b6&style=flat" alt="YigitCataloglu" /> 
 </p>
 
-//<div align="center">
-  //<img src="https://github.com/user-attachments/assets/9ed662e1-571e-49d0-b633-693a1d5f7d7b" alt="Xei6" />
-//</div>
+
 
 
 
